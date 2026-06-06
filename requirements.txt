@@ -1,0 +1,5 @@
+fastapi
+uvicorn
+httpx
+ollama
+qdrant-client
